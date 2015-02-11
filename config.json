@@ -6,7 +6,20 @@
   {
     "name":"Flanders",
     "url" : "http://tdt.ckan-001.corve.prvw.eu/api/dcat"
-  }],
+  },
+  {
+    "name":"Antwerp",
+    "url" :"http://datasets.antwerpen.be/v4/api/dcat"
+  },
+  {
+    "name" : "Ghent",
+    "url" : "http://datatank4.gent.be/api/dcat"
+  },
+  {
+    "name": "Brussels",
+    "url": "http://opendata.bruxelles.be/api/datasets/1.0/search?format=rdf&rows=-1"
+  }
+  ],
 
   "startFragment": "http://fragments.dbpedia.org/2014/en",
 
@@ -23,8 +36,8 @@
 
   "catalog": {
     "baseURI": "http://ewi.mmlab.be/otn",
-    "title": "'Open Transport Net metadata'",
-    "description": "'Open Transport Net metadata from various cities'",
+    "title": "\"Open Transport Net metadata\"",
+    "description": "\"Open Transport Net metadata from various cities\"",
     "themeTaxonomy": "http://ns.thedatatank.com/dcat/themes#Taxonomy",
     "issued": "",
     "modified": "",
